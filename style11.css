@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    text-decoration: none;
+    font-size: 300%;
+    font-family: monospace;
+    background-image: url("back1.png");
+    background-size: 100%;
+}
+.container{
+    position: absolute;
+    
+}
+a{
+    position: absolute;
+    margin-left: -8.5%;
+    margin-top: 20%;
+    padding: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border: 1px none black;
+    border-radius:  60px;
+    background-color: black;
+    transition: 1s;
+}
+a:hover{
+    background-color: dimgray;
+}
+
